@@ -12,7 +12,7 @@
 }
 :root{
     --main-color: rgb(36, 3, 36);
-    --text-color: purple;
+    --text-color: rgb(0, 0, 0);
     --bg-color: rgb(255, 255, 255);
 }
 img{
